@@ -11,7 +11,7 @@ void setup()
     u8g2.setFontPosTop();
     u8g2.clear();
     u8g2.setCursor(0, 0);
-    u8g2.print("Aidan");
+    u8g2.print("MOCA");
     u8g2.updateDisplay();
 }
 
